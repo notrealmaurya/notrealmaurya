@@ -65,9 +65,8 @@ def greeting():
 ### 📊 **GitHub Stats**
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notrealmaurya&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=notrealmaurya&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notrealmaurya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=notrealmaurya&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 
