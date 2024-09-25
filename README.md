@@ -18,6 +18,9 @@ def greeting():
 - ⚡ Fun fact: I love **to Watch Anime**!
 
 ---
+<!--   
+ 
+
 
 ### 🛠 **Technical Skills**
 
@@ -62,6 +65,7 @@ def greeting():
 
 ---
 
+-->
 ### 📊 **GitHub Stats**
 
 <div>
