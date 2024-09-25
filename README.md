@@ -75,6 +75,7 @@ def greeting():
 
 
 ---
+<!--   
 
 ### 🌍 **Connect with Me**
 
@@ -82,6 +83,7 @@ def greeting():
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=web)](https://____.com)
 
 ---
+-->
 
 ### 🐱
 ![GitHub Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
