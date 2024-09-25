@@ -11,8 +11,10 @@ def greeting():
 ---
 
 ### 👨‍💻 **About Me**
-
+<!--   
+ 
 - 🔭 I’m currently working on **Trading Related App**.
+-->
 - 🌱 I’m currently learning **Flutter || Machine Learning**
 - 📫 How to reach me: [loop.maurya@gmail.com](mailto:your-loop.maurya@gmail.com).
 - ⚡ Fun fact: I love **to Watch Anime**!
